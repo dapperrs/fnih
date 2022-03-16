@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_story.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story touched0000" x="0" y="0" width="399" height="130" frameX="0" frameY="0" frameWidth="399" frameHeight="131"/>
+	<SubTexture name="story touched0001" x="399" y="0" width="399" height="131"/>
+	<SubTexture name="story touched0002" x="0" y="131" width="399" height="130" frameX="0" frameY="0" frameWidth="399" frameHeight="131"/>
+	<SubTexture name="story untouched0000" x="399" y="131" width="349" height="116" frameX="0" frameY="0" frameWidth="349" frameHeight="117"/>
+	<SubTexture name="story untouched0001" x="0" y="261" width="349" height="117"/>
+	<SubTexture name="story untouched0002" x="349" y="261" width="349" height="117"/>
+</TextureAtlas>

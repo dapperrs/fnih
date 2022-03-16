@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="daBuilds.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightsBuilding0000" x="0" y="0" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0001" x="2250" y="0" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0002" x="4500" y="0" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0003" x="0" y="541" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0004" x="2250" y="541" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0005" x="4500" y="541" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0006" x="0" y="1082" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0007" x="2250" y="1082" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0008" x="4500" y="1082" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0009" x="0" y="1623" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0010" x="2250" y="1623" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0011" x="4500" y="1623" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0012" x="0" y="2164" width="2250" height="541"/>
+	<SubTexture name="lightsBuilding0013" x="2250" y="2164" width="2250" height="541"/>
+</TextureAtlas>

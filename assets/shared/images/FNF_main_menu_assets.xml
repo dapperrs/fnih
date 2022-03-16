@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrowLeft touched0000" x="0" y="0" width="50" height="84"/>
+	<SubTexture name="arrowLeft untouched0000" x="50" y="0" width="45" height="78"/>
+	<SubTexture name="arrowRight touched0000" x="95" y="0" width="50" height="84"/>
+	<SubTexture name="arrowRight untouched0000" x="145" y="0" width="45" height="78"/>
+</TextureAtlas>

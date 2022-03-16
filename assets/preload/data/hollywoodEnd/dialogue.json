@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "GGs, fair game, you were sweating alot.",
+                        "slidePath": "angeles/dialoguebackground/1",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bruh"
+		},
+		{
+			"expression": "",
+			"text": "Lol, I really worked you out.",
+			"boxState": "talk",
+			"speed": 0.05,
+                        "slidePath": "angeles/dialoguebackground/1",
+			"portrait": "bruh"
+		},
+		{
+			"expression": "",
+			"text": "I have a music video to shoot.",
+			"boxState": "talk",
+			"speed": 0.05,
+                         "slidePath": "angeles/dialoguebackground/1",
+			"portrait": "bruh"
+		},
+		{
+			"expression": "excited",
+			"text": "beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+                        "slidePath": "angeles/dialoguebackground/2",
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "boop ba bee",
+			"boxState": "normal",
+			"speed": 0.035,
+                        "slidePath": "angeles/dialoguebackground/2",
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Yeah, we did good.",
+			"boxState": "normal",
+			"speed": 0.05,
+                        "slidePath": "angeles/dialoguebackground/3",
+			"portrait": "bruh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+                        "slidePath": "angeles/dialoguebackground/3",
+			"text": "Yeah, you guys did really awesome!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+                        "slidePath": "angeles/dialoguebackground/4",
+			"text": "I mean, maybe we can do a feature at one point."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nothing",
+			"boxState": "normal",
+			"expression": "talk",
+                        "slidePath": "angeles/dialoguebackground/5",
+			"text": "I mean honestly, if.."
+		},
+		{
+			"speed": 0.12,
+			"portrait": "nothing",
+			"boxState": "normal",
+                        "slidePath": "angeles/dialoguebackground/6",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+                        "slidePath": "angeles/dialoguebackground/7",
+			"expression": "shocked",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+                        "slidePath": "angeles/dialoguebackground/1",
+			"expression": "shocked",
+			"text": "Yeah, what's up?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+	                "slidePath": "angeles/dialoguebackground/8",
+			"expression": "shocked",
+			"text": "BEEP BA BEEP BA BAP!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+	                "slidePath": "angeles/dialoguebackground/9",
+			"expression": "talk",
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.105,
+			"portrait": "nothing",
+			"boxState": "normal",
+	                "slidePath": "angeles/dialoguebackground/9",
+			"expression": "shocked",
+			"text": "..."
+		}
+	]
+}

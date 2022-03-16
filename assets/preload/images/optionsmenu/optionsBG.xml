@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="optionsBG.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgDope0000" x="0" y="0" width="1417" height="994" frameX="-7" frameY="-88" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0001" x="1417" y="0" width="1417" height="994" frameX="-7" frameY="-85" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0002" x="2834" y="0" width="1417" height="994" frameX="-7" frameY="-82" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0003" x="4251" y="0" width="1417" height="994" frameX="-7" frameY="-79" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0004" x="5668" y="0" width="1417" height="995" frameX="-7" frameY="-75" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0005" x="0" y="995" width="1417" height="994" frameX="-7" frameY="-72" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0006" x="1417" y="995" width="1417" height="994" frameX="-7" frameY="-69" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0007" x="2834" y="995" width="1417" height="994" frameX="-7" frameY="-66" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0008" x="4251" y="995" width="1417" height="994" frameX="-7" frameY="-63" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0009" x="5668" y="995" width="1417" height="994" frameX="-7" frameY="-60" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0010" x="0" y="1989" width="1417" height="994" frameX="-7" frameY="-57" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0011" x="1417" y="1989" width="1417" height="995" frameX="-7" frameY="-53" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0012" x="2834" y="1989" width="1417" height="994" frameX="-7" frameY="-50" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0013" x="4251" y="1989" width="1417" height="994" frameX="-7" frameY="-47" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0014" x="5668" y="1989" width="1413" height="994" frameX="0" frameY="-44" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0015" x="0" y="2984" width="1413" height="994" frameX="0" frameY="-41" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0016" x="1413" y="2984" width="1413" height="994" frameX="0" frameY="-38" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0017" x="2826" y="2984" width="1413" height="994" frameX="0" frameY="-35" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0018" x="4239" y="2984" width="1413" height="994" frameX="0" frameY="-32" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0019" x="5652" y="2984" width="1413" height="994" frameX="0" frameY="-28" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0020" x="0" y="3978" width="1413" height="994" frameX="0" frameY="-25" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0021" x="1413" y="3978" width="1413" height="994" frameX="0" frameY="-22" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0022" x="2826" y="3978" width="1413" height="994" frameX="0" frameY="-19" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0023" x="4239" y="3978" width="1413" height="994" frameX="0" frameY="-16" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0024" x="5652" y="3978" width="1413" height="994" frameX="0" frameY="-13" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0025" x="0" y="4972" width="1413" height="994" frameX="0" frameY="-10" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0026" x="1413" y="4972" width="1413" height="995" frameX="0" frameY="-6" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0027" x="2826" y="4972" width="1413" height="994" frameX="0" frameY="-3" frameWidth="1424" frameHeight="1082"/>
+	<SubTexture name="bgDope0028" x="4239" y="4972" width="1413" height="994" frameX="0" frameY="0" frameWidth="1424" frameHeight="1082"/>
+</TextureAtlas>

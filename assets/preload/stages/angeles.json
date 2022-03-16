@@ -1,0 +1,9 @@
+{
+	"directory": "bruh",
+	"defaultZoom": 0.65,
+	"isPixelStage": false,
+
+	"boyfriend": [950, 320],
+	"girlfriend": [400, 350],
+	"opponent": [160, 260]
+}

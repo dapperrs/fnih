@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shit0.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hit me0000" x="0" y="0" width="217" height="219"/>
+	<SubTexture name="hit me0001" x="217" y="0" width="217" height="219"/>
+	<SubTexture name="hit me0002" x="434" y="0" width="206" height="200" frameX="-5" frameY="-18" frameWidth="217" frameHeight="219"/>
+	<SubTexture name="hit me0003" x="640" y="0" width="206" height="200" frameX="-5" frameY="-18" frameWidth="217" frameHeight="219"/>
+	<SubTexture name="hit me0004" x="0" y="219" width="191" height="179" frameX="-7" frameY="-19" frameWidth="217" frameHeight="219"/>
+	<SubTexture name="hit me0005" x="191" y="219" width="153" height="115" frameX="-7" frameY="-19" frameWidth="217" frameHeight="219"/>
+	<SubTexture name="hit me0006" x="344" y="219" width="0" height="0" frameX="-5" frameY="0" frameWidth="217" frameHeight="219"/>
+	<SubTexture name="hitAlive0000" x="344" y="219" width="217" height="219"/>
+</TextureAtlas>

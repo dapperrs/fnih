@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Those beats hit, fr..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Thanks?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Another song! We're actually on fire!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "ba."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguephoto",
+			"boxState": "normal",
+			"expression": "idle",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Hey guys!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Jeff! Just in time!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "I'ma need you to film this stuff bro, me and the Boyfriend kid are doing numbers fr fr"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "boop???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Hush, let's do this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguephoto",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Let's get this party started! Say cheese!"
+		}
+	]
+}

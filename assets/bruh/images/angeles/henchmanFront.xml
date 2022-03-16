@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="henchmanFront.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="frontDude0000" x="0" y="0" width="635" height="582" frameX="0" frameY="-4" frameWidth="635" frameHeight="586"/>
+	<SubTexture name="frontDude0001" x="635" y="0" width="635" height="582" frameX="0" frameY="-4" frameWidth="635" frameHeight="586"/>
+	<SubTexture name="frontDude0002" x="1270" y="0" width="635" height="582" frameX="0" frameY="-4" frameWidth="635" frameHeight="586"/>
+	<SubTexture name="frontDude0003" x="0" y="582" width="635" height="582" frameX="0" frameY="-4" frameWidth="635" frameHeight="586"/>
+	<SubTexture name="frontDude0004" x="635" y="582" width="635" height="582" frameX="0" frameY="0" frameWidth="635" frameHeight="586"/>
+	<SubTexture name="frontDude0005" x="1270" y="582" width="635" height="582" frameX="0" frameY="0" frameWidth="635" frameHeight="586"/>
+	<SubTexture name="frontDude0006" x="0" y="1164" width="635" height="582" frameX="0" frameY="0" frameWidth="635" frameHeight="586"/>
+	<SubTexture name="frontDude0007" x="635" y="1164" width="635" height="582" frameX="0" frameY="0" frameWidth="635" frameHeight="586"/>
+	<SubTexture name="frontDude0008" x="1270" y="1164" width="635" height="582" frameX="0" frameY="0" frameWidth="635" frameHeight="586"/>
+</TextureAtlas>

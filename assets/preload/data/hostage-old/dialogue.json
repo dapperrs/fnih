@@ -1,0 +1,37 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+                        "slidePath": "angeles/dialoguebackground/9",
+			"expression": "talk",
+                        "sound": "bruh",      
+			"text": "well, well, well.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "talk",
+                        "slidePath": "angeles/dialoguebackground/9",
+			"text": "boyfriend, eh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "shocked",
+                        "slidePath": "angeles/dialoguebackground/9",
+			"text": "you've been messing with my rep, man."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "talk",
+                        "slidePath": "angeles/dialoguebackground/9",
+			"text": "we need to settle who the better rapper be on these streets, yo."
+		}
+	]
+}

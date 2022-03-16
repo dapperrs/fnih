@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="theWeirdPack.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GoAway0000" x="1866" y="1898" width="933" height="942" frameX="0" frameY="-1" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="GoAway0001" x="0" y="0" width="933" height="941" frameX="0" frameY="-2" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0002" x="933" y="0" width="933" height="942" frameX="0" frameY="-2" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0003" x="1866" y="0" width="933" height="941" frameX="0" frameY="-3" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0004" x="2799" y="0" width="933" height="942" frameX="0" frameY="-3" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0005" x="3732" y="0" width="933" height="941" frameX="0" frameY="-4" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0006" x="4665" y="0" width="933" height="942" frameX="0" frameY="-4" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0007" x="5598" y="0" width="933" height="941" frameX="0" frameY="-5" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0008" x="6531" y="0" width="933" height="942" frameX="0" frameY="-5" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0009" x="0" y="942" width="933" height="941" frameX="0" frameY="-6" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0010" x="933" y="942" width="933" height="942" frameX="0" frameY="-6" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0011" x="1866" y="942" width="933" height="955" frameX="0" frameY="0" frameWidth="933" frameHeight="956"/>
+	<SubTexture name="GoAway0012" x="2799" y="942" width="933" height="956"/>
+	<SubTexture name="GoAway0013" x="933" y="1898" width="933" height="942" frameX="0" frameY="-7" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0000" x="3732" y="942" width="933" height="956" frameX="0" frameY="0" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0001" x="3732" y="942" width="933" height="956" frameX="0" frameY="0" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0002" x="4665" y="942" width="933" height="956" frameX="0" frameY="-5" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0003" x="4665" y="942" width="933" height="956" frameX="0" frameY="-5" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0004" x="4665" y="942" width="933" height="956" frameX="0" frameY="-5" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0005" x="4800" y="1898" width="933" height="956" frameX="0" frameY="-5" frameWidth="933" frameHeight="985"/>
+	<SubTexture name="ShakeBlood0006" x="5598" y="942" width="933" height="956" frameX="0" frameY="-4" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0007" x="6531" y="942" width="933" height="956" frameX="0" frameY="-4" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0008" x="4800" y="1898" width="933" height="956" frameX="0" frameY="-4" frameWidth="933" frameHeight="985"/>
+	<SubTexture name="ShakeBlood0009" x="0" y="1898" width="933" height="942" frameX="0" frameY="-10" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0010" x="933" y="1898" width="933" height="942" frameX="0" frameY="-9" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0011" x="0" y="1898" width="933" height="942" frameX="0" frameY="-9" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0012" x="0" y="1898" width="933" height="942" frameX="0" frameY="-8" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="ShakeBlood0013" x="1866" y="1898" width="933" height="942" frameX="0" frameY="-7" frameWidth="933" frameHeight="961"/>
+	<SubTexture name="duhThing0000" x="2799" y="1898" width="163" height="263" frameX="-194" frameY="-722" frameWidth="933" frameHeight="985"/>
+	<SubTexture name="duhThing0001" x="2962" y="1898" width="256" height="336" frameX="-230" frameY="-533" frameWidth="933" frameHeight="985"/>
+	<SubTexture name="duhThing0002" x="3218" y="1898" width="331" height="419" frameX="-201" frameY="-446" frameWidth="933" frameHeight="985"/>
+	<SubTexture name="duhThing0003" x="3549" y="1898" width="419" height="591" frameX="-170" frameY="-357" frameWidth="933" frameHeight="985"/>
+	<SubTexture name="duhThing0004" x="3968" y="1898" width="832" height="849" frameX="-13" frameY="-31" frameWidth="933" frameHeight="985"/>
+	<SubTexture name="duhThing0005" x="4800" y="1898" width="933" height="956" frameX="0" frameY="0" frameWidth="933" frameHeight="985"/>
+</TextureAtlas>

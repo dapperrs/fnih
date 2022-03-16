@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Bruh.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thingy0000" x="0" y="0" width="185" height="223" frameX="-3" frameY="-7" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0001" x="185" y="0" width="185" height="223" frameX="-3" frameY="-7" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0002" x="370" y="0" width="185" height="226" frameX="-2" frameY="-4" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0003" x="555" y="0" width="185" height="226" frameX="-2" frameY="-4" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0004" x="740" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0005" x="926" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0006" x="1112" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0007" x="1298" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0008" x="1484" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0009" x="1670" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0010" x="1856" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0011" x="2042" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0012" x="2228" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+	<SubTexture name="thingy0013" x="2414" y="0" width="186" height="230" frameX="0" frameY="0" frameWidth="188" frameHeight="230"/>
+</TextureAtlas>

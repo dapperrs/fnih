@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="henchmanSolo.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="henchmanSolo0000" x="0" y="0" width="187" height="443" frameX="-12" frameY="0" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0001" x="187" y="0" width="187" height="443" frameX="-12" frameY="0" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0002" x="374" y="0" width="187" height="443" frameX="-12" frameY="0" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0003" x="561" y="0" width="187" height="443" frameX="-12" frameY="0" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0004" x="748" y="0" width="199" height="440" frameX="0" frameY="-3" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0005" x="947" y="0" width="199" height="440" frameX="0" frameY="-3" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0006" x="1146" y="0" width="199" height="440" frameX="0" frameY="-3" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0007" x="1345" y="0" width="199" height="440" frameX="0" frameY="-3" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0008" x="1544" y="0" width="199" height="440" frameX="0" frameY="-3" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0009" x="1743" y="0" width="199" height="441" frameX="0" frameY="-2" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0010" x="0" y="443" width="199" height="441" frameX="0" frameY="-2" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0011" x="199" y="443" width="199" height="441" frameX="0" frameY="-2" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0012" x="398" y="443" width="199" height="441" frameX="0" frameY="-2" frameWidth="199" frameHeight="443"/>
+	<SubTexture name="henchmanSolo0013" x="597" y="443" width="199" height="441" frameX="0" frameY="-2" frameWidth="199" frameHeight="443"/>
+</TextureAtlas>

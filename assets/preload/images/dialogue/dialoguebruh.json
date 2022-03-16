@@ -1,0 +1,63 @@
+{
+	"position": [
+		180,
+		100
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "dialogueBruh",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				1
+			],
+			"loop_offsets": [
+				-2,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "bruh ok0",
+			"loop_name": "bruh ok"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bruh mad0",
+			"loop_name": "bruh mad"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-5
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				-1
+			],
+			"idle_name": "bruh meh0",
+			"loop_name": "bruh meh"
+		},
+		{
+			"loop_name": "bruh phone",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bruh phone0",
+			"anim": "phone",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

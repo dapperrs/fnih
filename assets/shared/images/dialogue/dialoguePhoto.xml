@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialoguePhoto.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jeff Camera0000" x="0" y="0" width="657" height="600" frameX="-3" frameY="0" frameWidth="660" frameHeight="606"/>
+	<SubTexture name="Jeff Camera0001" x="657" y="0" width="657" height="600" frameX="-3" frameY="0" frameWidth="660" frameHeight="606"/>
+	<SubTexture name="Jeff Camera0002" x="1314" y="0" width="660" height="599" frameX="0" frameY="-2" frameWidth="660" frameHeight="606"/>
+	<SubTexture name="Jeff Camera0003" x="1974" y="0" width="660" height="599" frameX="0" frameY="-2" frameWidth="660" frameHeight="606"/>
+	<SubTexture name="Jeff Camera0004" x="2634" y="0" width="660" height="606"/>
+	<SubTexture name="Jeff Camera0005" x="3294" y="0" width="660" height="606"/>
+	<SubTexture name="Jeff Normal0000" x="0" y="606" width="533" height="636" frameX="-3" frameY="0" frameWidth="536" frameHeight="640"/>
+	<SubTexture name="Jeff Normal0001" x="533" y="606" width="533" height="636" frameX="-3" frameY="0" frameWidth="536" frameHeight="640"/>
+	<SubTexture name="Jeff Normal0002" x="1066" y="606" width="536" height="638" frameX="0" frameY="-2" frameWidth="536" frameHeight="640"/>
+	<SubTexture name="Jeff Normal0003" x="1602" y="606" width="536" height="638" frameX="0" frameY="-2" frameWidth="536" frameHeight="640"/>
+	<SubTexture name="Jeff Normal0004" x="2138" y="606" width="536" height="640"/>
+	<SubTexture name="Jeff Normal0005" x="2674" y="606" width="536" height="640"/>
+	<SubTexture name="Jeff Wait0000" x="3210" y="606" width="662" height="595" frameX="0" frameY="0" frameWidth="662" frameHeight="597"/>
+	<SubTexture name="Jeff Wait0001" x="0" y="1246" width="662" height="595" frameX="0" frameY="0" frameWidth="662" frameHeight="597"/>
+	<SubTexture name="Jeff Wait0002" x="662" y="1246" width="660" height="597" frameX="-2" frameY="0" frameWidth="662" frameHeight="597"/>
+	<SubTexture name="Jeff Wait0003" x="1322" y="1246" width="660" height="597" frameX="-2" frameY="0" frameWidth="662" frameHeight="597"/>
+	<SubTexture name="Jeff Wait0004" x="1982" y="1246" width="660" height="597" frameX="-2" frameY="0" frameWidth="662" frameHeight="597"/>
+	<SubTexture name="Jeff Wait0005" x="2642" y="1246" width="660" height="597" frameX="-2" frameY="0" frameWidth="662" frameHeight="597"/>
+</TextureAtlas>

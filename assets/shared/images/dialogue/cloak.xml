@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cloak.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cloak calm0000" x="0" y="0" width="391" height="628" frameX="-3" frameY="0" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak calm0001" x="391" y="0" width="391" height="628" frameX="-3" frameY="0" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak calm0002" x="782" y="0" width="391" height="621" frameX="0" frameY="-8" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak calm0003" x="1173" y="0" width="391" height="621" frameX="0" frameY="-8" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak calm0004" x="1564" y="0" width="391" height="621" frameX="0" frameY="-8" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak calm0005" x="1955" y="0" width="391" height="621" frameX="0" frameY="-8" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak sweat0000" x="2346" y="0" width="391" height="628" frameX="-3" frameY="0" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak sweat0001" x="2737" y="0" width="391" height="628" frameX="-3" frameY="0" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak sweat0002" x="3128" y="0" width="391" height="621" frameX="0" frameY="-8" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak sweat0003" x="3519" y="0" width="391" height="621" frameX="0" frameY="-8" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak sweat0004" x="3910" y="0" width="391" height="621" frameX="0" frameY="-8" frameWidth="394" frameHeight="629"/>
+	<SubTexture name="cloak sweat0005" x="4301" y="0" width="391" height="621" frameX="0" frameY="-8" frameWidth="394" frameHeight="629"/>
+</TextureAtlas>

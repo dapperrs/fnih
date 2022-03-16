@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menubgpink.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgMagenta0000" x="0" y="0" width="1461" height="1389" frameX="0" frameY="-91" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0001" x="1461" y="0" width="1461" height="1388" frameX="0" frameY="-88" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0002" x="2922" y="0" width="1461" height="1388" frameX="0" frameY="-84" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0003" x="4383" y="0" width="1461" height="1388" frameX="0" frameY="-80" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0004" x="5844" y="0" width="1461" height="1388" frameX="0" frameY="-76" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0005" x="0" y="1389" width="1461" height="1388" frameX="0" frameY="-72" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0006" x="1461" y="1389" width="1461" height="1388" frameX="0" frameY="-69" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0007" x="2922" y="1389" width="1461" height="1388" frameX="0" frameY="-65" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0008" x="4383" y="1389" width="1461" height="1388" frameX="0" frameY="-61" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0009" x="5844" y="1389" width="1461" height="1388" frameX="0" frameY="-57" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0010" x="0" y="2777" width="1461" height="1388" frameX="0" frameY="-53" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0011" x="1461" y="2777" width="1461" height="1389" frameX="0" frameY="-49" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0012" x="2922" y="2777" width="1461" height="1388" frameX="0" frameY="-46" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0013" x="4383" y="2777" width="1461" height="1388" frameX="0" frameY="-42" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0014" x="5844" y="2777" width="1461" height="1388" frameX="0" frameY="-38" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0015" x="0" y="4166" width="1461" height="1388" frameX="0" frameY="-34" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0016" x="1461" y="4166" width="1461" height="1388" frameX="0" frameY="-30" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0017" x="2922" y="4166" width="1461" height="1388" frameX="0" frameY="-27" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0018" x="4383" y="4166" width="1461" height="1388" frameX="0" frameY="-23" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0019" x="5844" y="4166" width="1461" height="1388" frameX="0" frameY="-19" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0020" x="0" y="5554" width="1461" height="1388" frameX="0" frameY="-15" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0021" x="1461" y="5554" width="1461" height="1388" frameX="0" frameY="-11" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0022" x="2922" y="5554" width="1461" height="1389" frameX="0" frameY="-7" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0023" x="4383" y="5554" width="1461" height="1388" frameX="0" frameY="-4" frameWidth="1461" frameHeight="1480"/>
+	<SubTexture name="bgMagenta0024" x="5844" y="5554" width="1461" height="1388" frameX="0" frameY="0" frameWidth="1461" frameHeight="1480"/>
+</TextureAtlas>

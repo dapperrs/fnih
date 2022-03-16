@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBruh.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bruh mad0000" x="0" y="0" width="333" height="502" frameX="0" frameY="0" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh mad0001" x="333" y="0" width="333" height="502" frameX="0" frameY="0" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh mad0002" x="666" y="0" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh mad0003" x="996" y="0" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh mad0004" x="1326" y="0" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh mad0005" x="1656" y="0" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh meh0000" x="0" y="502" width="333" height="502" frameX="0" frameY="0" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh meh0001" x="333" y="502" width="333" height="502" frameX="0" frameY="0" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh meh0002" x="666" y="502" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh meh0003" x="996" y="502" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh meh0004" x="1326" y="502" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh meh0005" x="1656" y="502" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh ok0000" x="0" y="1004" width="333" height="502" frameX="0" frameY="0" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh ok0001" x="333" y="1004" width="333" height="502" frameX="0" frameY="0" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh ok0002" x="666" y="1004" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh ok0003" x="996" y="1004" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh ok0004" x="1326" y="1004" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh ok0005" x="1656" y="1004" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh phone0000" x="0" y="1506" width="333" height="502" frameX="0" frameY="0" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh phone0001" x="333" y="1506" width="333" height="502" frameX="0" frameY="0" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh phone0002" x="666" y="1506" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh phone0003" x="996" y="1506" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh phone0004" x="1326" y="1506" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+	<SubTexture name="bruh phone0005" x="1656" y="1506" width="330" height="499" frameX="-4" frameY="-3" frameWidth="334" frameHeight="502"/>
+</TextureAtlas>

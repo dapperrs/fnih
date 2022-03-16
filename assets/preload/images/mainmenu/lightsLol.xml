@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightsLol.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightsLoop0000" x="0" y="0" width="1535" height="932" frameX="-23" frameY="-10" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0001" x="1535" y="0" width="1532" height="930" frameX="-26" frameY="-12" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0002" x="3067" y="0" width="1532" height="929" frameX="-26" frameY="-13" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0003" x="4599" y="0" width="1534" height="932" frameX="-24" frameY="-10" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0004" x="6133" y="0" width="1538" height="933" frameX="-21" frameY="-8" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0005" x="0" y="933" width="1541" height="935" frameX="-18" frameY="-7" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0006" x="1541" y="933" width="1543" height="937" frameX="-16" frameY="-5" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0007" x="3084" y="933" width="1545" height="939" frameX="-14" frameY="-3" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0008" x="4629" y="933" width="1546" height="940" frameX="-12" frameY="-2" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0009" x="6175" y="933" width="1547" height="941" frameX="-10" frameY="-1" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0010" x="0" y="1874" width="1549" height="941" frameX="-8" frameY="-1" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0011" x="1549" y="1874" width="1548" height="942" frameX="-7" frameY="0" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0012" x="3097" y="1874" width="1549" height="942" frameX="-5" frameY="0" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0013" x="4646" y="1874" width="1549" height="942" frameX="-4" frameY="0" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0014" x="6195" y="1874" width="1548" height="941" frameX="-3" frameY="-1" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0015" x="0" y="2816" width="1547" height="941" frameX="-2" frameY="-1" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0016" x="1547" y="2816" width="1546" height="940" frameX="-1" frameY="-2" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0017" x="3093" y="2816" width="1544" height="939" frameX="-1" frameY="-3" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0018" x="4637" y="2816" width="1542" height="938" frameX="0" frameY="-4" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0019" x="6179" y="2816" width="1540" height="936" frameX="0" frameY="-6" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0020" x="0" y="3757" width="1537" height="935" frameX="0" frameY="-7" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0021" x="1537" y="3757" width="1534" height="933" frameX="0" frameY="-9" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0022" x="3071" y="3757" width="1537" height="935" frameX="0" frameY="-7" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0023" x="4608" y="3757" width="1539" height="936" frameX="0" frameY="-6" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0024" x="6147" y="3757" width="1542" height="938" frameX="0" frameY="-4" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0025" x="0" y="4695" width="1543" height="939" frameX="-1" frameY="-3" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0026" x="1543" y="4695" width="1545" height="940" frameX="-1" frameY="-2" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0027" x="3088" y="4695" width="1546" height="940" frameX="-2" frameY="-2" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0028" x="4634" y="4695" width="1547" height="941" frameX="-3" frameY="-1" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0029" x="6181" y="4695" width="1549" height="941" frameX="-3" frameY="-1" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0030" x="0" y="5636" width="1548" height="942" frameX="-5" frameY="0" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0031" x="1548" y="5636" width="1548" height="941" frameX="-6" frameY="-1" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0032" x="3096" y="5636" width="1548" height="940" frameX="-7" frameY="-1" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0033" x="4644" y="5636" width="1547" height="941" frameX="-9" frameY="-1" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0034" x="6191" y="5636" width="1547" height="940" frameX="-10" frameY="-2" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0035" x="0" y="6578" width="1546" height="939" frameX="-12" frameY="-3" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0036" x="1546" y="6578" width="1544" height="938" frameX="-14" frameY="-4" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0037" x="3090" y="6578" width="1542" height="937" frameX="-16" frameY="-5" frameWidth="1559" frameHeight="942"/>
+	<SubTexture name="lightsLoop0038" x="4632" y="6578" width="1540" height="935" frameX="-18" frameY="-7" frameWidth="1559" frameHeight="942"/>
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		-30
+	],
+	"scale": 0.95,
+	"animations": [
+		{
+			"loop_offsets": [
+				5,
+				-2
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "Jeff Camera",
+			"idle_name": "Jeff Camera0"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-1
+			],
+			"loop_name": "Jeff Wait",
+			"idle_name": "Jeff Wait0"
+		},
+		{
+			"idle_offsets": [
+				-77,
+				-6
+			],
+			"anim": "idle",
+			"loop_offsets": [
+				-78,
+				-7
+			],
+			"idle_name": "Jeff Normal0",
+			"loop_name": "Jeff Normal"
+		}
+	],
+	"image": "dialoguePhoto"
+}

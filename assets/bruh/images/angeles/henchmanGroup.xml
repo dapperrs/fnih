@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="henchmanGroup.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="henchmenGroup0000" x="0" y="0" width="623" height="483"/>
+	<SubTexture name="henchmenGroup0001" x="623" y="0" width="623" height="483"/>
+	<SubTexture name="henchmenGroup0002" x="1246" y="0" width="623" height="483"/>
+	<SubTexture name="henchmenGroup0003" x="1869" y="0" width="623" height="483"/>
+	<SubTexture name="henchmenGroup0004" x="2492" y="0" width="619" height="479" frameX="-4" frameY="-4" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0005" x="3111" y="0" width="619" height="479" frameX="-4" frameY="-4" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0006" x="0" y="483" width="619" height="479" frameX="-4" frameY="-4" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0007" x="619" y="483" width="619" height="479" frameX="-4" frameY="-4" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0008" x="1238" y="483" width="619" height="479" frameX="-4" frameY="-4" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0009" x="1857" y="483" width="619" height="480" frameX="-4" frameY="-3" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0010" x="2476" y="483" width="619" height="480" frameX="-4" frameY="-3" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0011" x="3095" y="483" width="619" height="480" frameX="-4" frameY="-3" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0012" x="0" y="963" width="619" height="480" frameX="-4" frameY="-3" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0013" x="619" y="963" width="619" height="480" frameX="-4" frameY="-3" frameWidth="623" frameHeight="483"/>
+	<SubTexture name="henchmenGroup0014" x="1238" y="963" width="623" height="483"/>
+</TextureAtlas>

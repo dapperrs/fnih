@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "What.. the FUNK!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "JEFF?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "BF? GF? YO!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "bee???????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "WhO THE FUNK DID THIS?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "nothing",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "pissed",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cloak",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "what the?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cloak",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "say.. if i get in the mix?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "HEY HEY BUDDY, NO NEED TO SHOOT ANYONE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cloak",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "let's... do a song... now...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "pissed",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "oh man..."
+		}
+	]
+}

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="theWalkingDudes.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="male walking0000" x="0" y="0" width="840" height="1348" frameX="0" frameY="-4" frameWidth="840" frameHeight="1360"/>
+	<SubTexture name="male walking0001" x="0" y="0" width="840" height="1348" frameX="0" frameY="-4" frameWidth="840" frameHeight="1360"/>
+	<SubTexture name="male walking0002" x="0" y="0" width="840" height="1348" frameX="0" frameY="-4" frameWidth="840" frameHeight="1360"/>
+	<SubTexture name="male walking0003" x="0" y="0" width="840" height="1348" frameX="0" frameY="-4" frameWidth="840" frameHeight="1360"/>
+	<SubTexture name="male walking0004" x="840" y="0" width="840" height="1348" frameX="0" frameY="-12" frameWidth="840" frameHeight="1360"/>
+	<SubTexture name="male walking0005" x="840" y="0" width="840" height="1348" frameX="0" frameY="-12" frameWidth="840" frameHeight="1360"/>
+	<SubTexture name="male walking0006" x="0" y="0" width="840" height="1348" frameX="0" frameY="0" frameWidth="840" frameHeight="1360"/>
+	<SubTexture name="male walking0007" x="0" y="0" width="840" height="1348" frameX="0" frameY="0" frameWidth="840" frameHeight="1360"/>
+	<SubTexture name="male walking0008" x="0" y="0" width="840" height="1348" frameX="0" frameY="0" frameWidth="840" frameHeight="1360"/>
+	<SubTexture name="noob walking0000" x="1680" y="0" width="640" height="1132" frameX="0" frameY="-8" frameWidth="640" frameHeight="1140"/>
+	<SubTexture name="noob walking0001" x="1680" y="0" width="640" height="1132" frameX="0" frameY="-8" frameWidth="640" frameHeight="1140"/>
+	<SubTexture name="noob walking0002" x="1680" y="0" width="640" height="1132" frameX="0" frameY="-8" frameWidth="640" frameHeight="1140"/>
+	<SubTexture name="noob walking0003" x="1680" y="0" width="640" height="1132" frameX="0" frameY="-8" frameWidth="640" frameHeight="1140"/>
+	<SubTexture name="noob walking0004" x="2320" y="0" width="640" height="1133" frameX="0" frameY="-4" frameWidth="640" frameHeight="1140"/>
+	<SubTexture name="noob walking0005" x="2320" y="0" width="640" height="1133" frameX="0" frameY="-4" frameWidth="640" frameHeight="1140"/>
+	<SubTexture name="noob walking0006" x="2320" y="0" width="640" height="1133" frameX="0" frameY="0" frameWidth="640" frameHeight="1140"/>
+	<SubTexture name="noob walking0007" x="2320" y="0" width="640" height="1133" frameX="0" frameY="0" frameWidth="640" frameHeight="1140"/>
+	<SubTexture name="noob walking0008" x="2320" y="0" width="640" height="1133" frameX="0" frameY="-4" frameWidth="640" frameHeight="1140"/>
+	<SubTexture name="photographer walking0000" x="2960" y="0" width="1188" height="979" frameX="0" frameY="-3" frameWidth="1188" frameHeight="985"/>
+	<SubTexture name="photographer walking0001" x="2960" y="0" width="1188" height="979" frameX="0" frameY="-3" frameWidth="1188" frameHeight="985"/>
+	<SubTexture name="photographer walking0002" x="2960" y="0" width="1188" height="979" frameX="0" frameY="-3" frameWidth="1188" frameHeight="985"/>
+	<SubTexture name="photographer walking0003" x="2960" y="0" width="1188" height="979" frameX="0" frameY="-3" frameWidth="1188" frameHeight="985"/>
+	<SubTexture name="photographer walking0004" x="4148" y="0" width="1188" height="979" frameX="0" frameY="0" frameWidth="1188" frameHeight="985"/>
+	<SubTexture name="photographer walking0005" x="4148" y="0" width="1188" height="979" frameX="0" frameY="0" frameWidth="1188" frameHeight="985"/>
+	<SubTexture name="photographer walking0006" x="5336" y="0" width="1188" height="982" frameX="0" frameY="0" frameWidth="1188" frameHeight="985"/>
+	<SubTexture name="photographer walking0007" x="5336" y="0" width="1188" height="982" frameX="0" frameY="0" frameWidth="1188" frameHeight="985"/>
+	<SubTexture name="photographer walking0008" x="6524" y="0" width="1188" height="985"/>
+	<SubTexture name="regular man walking 0000" x="0" y="1348" width="1086" height="1372" frameX="0" frameY="-3" frameWidth="1086" frameHeight="1380"/>
+	<SubTexture name="regular man walking 0001" x="0" y="1348" width="1086" height="1372" frameX="0" frameY="-3" frameWidth="1086" frameHeight="1380"/>
+	<SubTexture name="regular man walking 0002" x="0" y="1348" width="1086" height="1372" frameX="0" frameY="-3" frameWidth="1086" frameHeight="1380"/>
+	<SubTexture name="regular man walking 0003" x="0" y="1348" width="1086" height="1372" frameX="0" frameY="-3" frameWidth="1086" frameHeight="1380"/>
+	<SubTexture name="regular man walking 0004" x="1086" y="1348" width="1086" height="1372" frameX="0" frameY="0" frameWidth="1086" frameHeight="1380"/>
+	<SubTexture name="regular man walking 0005" x="1086" y="1348" width="1086" height="1372" frameX="0" frameY="0" frameWidth="1086" frameHeight="1380"/>
+	<SubTexture name="regular man walking 0006" x="0" y="1348" width="1086" height="1372" frameX="0" frameY="-6" frameWidth="1086" frameHeight="1380"/>
+	<SubTexture name="regular man walking 0007" x="0" y="1348" width="1086" height="1372" frameX="0" frameY="-6" frameWidth="1086" frameHeight="1380"/>
+	<SubTexture name="regular man walking 0008" x="0" y="1348" width="1086" height="1372" frameX="0" frameY="-3" frameWidth="1086" frameHeight="1380"/>
+	<SubTexture name="regular woman walking0000" x="2172" y="1348" width="820" height="1203" frameX="0" frameY="-3" frameWidth="820" frameHeight="1209"/>
+	<SubTexture name="regular woman walking0001" x="2172" y="1348" width="820" height="1203" frameX="0" frameY="-3" frameWidth="820" frameHeight="1209"/>
+	<SubTexture name="regular woman walking0002" x="2172" y="1348" width="820" height="1203" frameX="0" frameY="-3" frameWidth="820" frameHeight="1209"/>
+	<SubTexture name="regular woman walking0003" x="2172" y="1348" width="820" height="1203" frameX="0" frameY="-3" frameWidth="820" frameHeight="1209"/>
+	<SubTexture name="regular woman walking0004" x="2172" y="1348" width="820" height="1203" frameX="0" frameY="0" frameWidth="820" frameHeight="1209"/>
+	<SubTexture name="regular woman walking0005" x="2172" y="1348" width="820" height="1203" frameX="0" frameY="0" frameWidth="820" frameHeight="1209"/>
+	<SubTexture name="regular woman walking0006" x="2172" y="1348" width="820" height="1203" frameX="0" frameY="-5" frameWidth="820" frameHeight="1209"/>
+	<SubTexture name="regular woman walking0007" x="2172" y="1348" width="820" height="1203" frameX="0" frameY="-5" frameWidth="820" frameHeight="1209"/>
+	<SubTexture name="regular woman walking0008" x="2172" y="1348" width="820" height="1203" frameX="0" frameY="-3" frameWidth="820" frameHeight="1209"/>
+	<SubTexture name="tord walking0000" x="2992" y="1348" width="984" height="1423" frameX="0" frameY="0" frameWidth="984" frameHeight="1426"/>
+	<SubTexture name="tord walking0001" x="2992" y="1348" width="984" height="1423" frameX="0" frameY="0" frameWidth="984" frameHeight="1426"/>
+	<SubTexture name="tord walking0002" x="2992" y="1348" width="984" height="1423" frameX="0" frameY="0" frameWidth="984" frameHeight="1426"/>
+	<SubTexture name="tord walking0003" x="2992" y="1348" width="984" height="1423" frameX="0" frameY="0" frameWidth="984" frameHeight="1426"/>
+	<SubTexture name="tord walking0004" x="3976" y="1348" width="984" height="1423" frameX="0" frameY="-3" frameWidth="984" frameHeight="1426"/>
+	<SubTexture name="tord walking0005" x="3976" y="1348" width="984" height="1423" frameX="0" frameY="-3" frameWidth="984" frameHeight="1426"/>
+	<SubTexture name="tord walking0006" x="4960" y="1348" width="984" height="1423" frameX="0" frameY="0" frameWidth="984" frameHeight="1426"/>
+	<SubTexture name="tord walking0007" x="4960" y="1348" width="984" height="1423" frameX="0" frameY="0" frameWidth="984" frameHeight="1426"/>
+	<SubTexture name="tord walking0008" x="3976" y="1348" width="984" height="1423" frameX="0" frameY="-3" frameWidth="984" frameHeight="1426"/>
+</TextureAtlas>

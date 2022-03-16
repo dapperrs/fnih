@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="henchmenDeadGroup.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="henchmenDead0000" x="0" y="0" width="944" height="234" frameX="0" frameY="-18" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0001" x="944" y="0" width="944" height="234" frameX="0" frameY="-18" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0002" x="0" y="234" width="937" height="239" frameX="-7" frameY="-13" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0003" x="937" y="234" width="937" height="239" frameX="-7" frameY="-13" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0004" x="0" y="473" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0005" x="937" y="473" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0006" x="0" y="728" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0007" x="937" y="728" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0008" x="0" y="983" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0009" x="937" y="983" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0010" x="0" y="1238" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0011" x="937" y="1238" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0012" x="0" y="1493" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0013" x="937" y="1493" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+	<SubTexture name="henchmenDead0014" x="0" y="1748" width="937" height="255" frameX="-7" frameY="0" frameWidth="944" frameHeight="255"/>
+</TextureAtlas>

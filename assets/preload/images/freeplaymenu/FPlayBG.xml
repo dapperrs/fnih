@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FPlayBG.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplayBGH0000" x="0" y="0" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0001" x="0" y="0" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0002" x="0" y="0" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0003" x="1282" y="0" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0004" x="1282" y="0" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0005" x="1282" y="0" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0006" x="2564" y="0" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0007" x="2564" y="0" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0008" x="0" y="720" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0009" x="0" y="720" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0010" x="0" y="720" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0011" x="1282" y="720" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0012" x="1282" y="720" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0013" x="1282" y="720" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0014" x="2564" y="720" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0015" x="2564" y="720" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0016" x="0" y="1440" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0017" x="0" y="1440" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0018" x="1282" y="1440" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0019" x="1282" y="1440" width="1282" height="720"/>
+	<SubTexture name="freeplayBGH0020" x="0" y="0" width="1282" height="720"/>
+</TextureAtlas>

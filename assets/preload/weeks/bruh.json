@@ -1,0 +1,49 @@
+{
+	"storyName": "Red carpet conflict",
+	"hideFreeplay": false,
+	"weekBackground": "bruh",
+	"weekBefore": "Bruh",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bruh",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Star",
+			"bruh",
+			[
+				228,
+				98,
+				32
+			]
+		],
+		[
+			"Cali",
+			"bruh",
+			[
+				228,
+				98,
+				32
+			]
+		],
+		[
+
+			"Hostage",
+			"duo",
+			[
+				228,
+				98,
+				32
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Bruh"
+}

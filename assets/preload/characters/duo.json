@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "duo down cloak"
+		},
+		{
+			"offsets": [
+				3,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "duo idle"
+		},
+		{
+			"offsets": [
+				-4,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "duo right0"
+		},
+		{
+			"offsets": [
+				8,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "duo left cloak"
+		},
+		{
+			"offsets": [
+				-6,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "duo right cloak"
+		},
+		{
+			"offsets": [
+				3,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "duo down0"
+		},
+		{
+			"offsets": [
+				4,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "duo up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-1
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "duo up cloak",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "duo left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pull",
+			"indices": [],
+			"name": "duo pull out"
+		},
+		{
+			"offsets": [
+				28,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hint",
+			"loop": false,
+			"name": "duo hint"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/duo",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		104,
+		18
+	],
+	"camera_position": [
+		-300,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.55
+}

@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "phone",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "`(tell Jeff I'm ready in 2..)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "phone",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "(yup, i'm set for the music video...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "phone",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "(?!)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "phone",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "(hold up.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "What are you guys doing here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "You didn't even go to the front desk! How'd you two get up here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "beep.. ba boop ba"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "pissed",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Nothing but trouble, boyfriend."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "...and that girlfriend of yours..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Okay, what do you want? I can't get you two off but I will ask why you're here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "ba beep bo ba doo ba boop bee ba"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "ba?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "No autographs, but I will do that rap battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "bop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "If you guys get off after, sure."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialoguebruh",
+			"boxState": "normal",
+			"expression": "talk",
+			"slidePath": "angeles/dialoguebackground/9",
+			"text": "Let's do it then."
+		}
+	]
+}

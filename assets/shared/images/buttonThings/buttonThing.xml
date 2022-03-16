@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttonThing.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flashOne0000" x="0" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0001" x="365" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0002" x="730" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0003" x="1095" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0004" x="1460" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0005" x="1825" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0006" x="2190" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0007" x="2555" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0008" x="2920" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0009" x="3285" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0010" x="3650" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0011" x="4015" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0012" x="4380" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0013" x="4745" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0014" x="5110" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0015" x="5475" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0016" x="5840" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0017" x="6205" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0018" x="6570" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0019" x="6935" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0020" x="7300" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0021" x="7665" y="0" width="365" height="387"/>
+	<SubTexture name="flashOne0022" x="0" y="387" width="365" height="387"/>
+	<SubTexture name="flashOne0023" x="365" y="387" width="365" height="387"/>
+	<SubTexture name="flashOne0024" x="730" y="387" width="365" height="387"/>
+	<SubTexture name="flashOne0025" x="1095" y="387" width="365" height="387"/>
+	<SubTexture name="flashOne0026" x="1460" y="387" width="365" height="387"/>
+	<SubTexture name="flashOne0027" x="1825" y="387" width="365" height="387"/>
+	<SubTexture name="flashOne0028" x="2190" y="387" width="365" height="387"/>
+	<SubTexture name="flashThird0000" x="2555" y="387" width="365" height="387" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0001" x="2920" y="387" width="364" height="384" frameX="-2" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0002" x="3284" y="387" width="365" height="384" frameX="0" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0003" x="3649" y="387" width="365" height="385" frameX="-1" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0004" x="4014" y="387" width="364" height="386" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0005" x="4378" y="387" width="365" height="388" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0006" x="4743" y="387" width="366" height="387" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0007" x="5109" y="387" width="366" height="387" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0008" x="5475" y="387" width="367" height="386" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0009" x="5842" y="387" width="365" height="387" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0010" x="6207" y="387" width="364" height="387" frameX="-2" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0011" x="6571" y="387" width="365" height="388" frameX="0" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0012" x="6936" y="387" width="364" height="388" frameX="-2" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0013" x="7300" y="387" width="365" height="388" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0014" x="7665" y="387" width="366" height="388" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0015" x="0" y="775" width="368" height="387" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0016" x="368" y="775" width="366" height="387" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0017" x="734" y="775" width="365" height="386" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0018" x="1099" y="775" width="364" height="385" frameX="-2" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0019" x="1463" y="775" width="364" height="384" frameX="-1" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0020" x="1827" y="775" width="364" height="385" frameX="-2" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0021" x="2191" y="775" width="365" height="386" frameX="-2" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0022" x="2556" y="775" width="365" height="387" frameX="-2" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0023" x="2921" y="775" width="366" height="386" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0024" x="3287" y="775" width="367" height="385" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0025" x="3654" y="775" width="368" height="384" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0026" x="4022" y="775" width="366" height="386" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0027" x="4388" y="775" width="365" height="387" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashThird0028" x="4753" y="775" width="365" height="387" frameX="-3" frameY="0" frameWidth="371" frameHeight="388"/>
+	<SubTexture name="flashTwo0000" x="5118" y="775" width="365" height="387"/>
+	<SubTexture name="flashTwo0001" x="5483" y="775" width="365" height="387"/>
+	<SubTexture name="flashTwo0002" x="5848" y="775" width="365" height="387"/>
+	<SubTexture name="flashTwo0003" x="6213" y="775" width="365" height="387"/>
+	<SubTexture name="flashTwo0004" x="6578" y="775" width="365" height="387"/>
+	<SubTexture name="flashTwo0005" x="6943" y="775" width="365" height="387"/>
+	<SubTexture name="flashTwo0006" x="7308" y="775" width="365" height="387"/>
+	<SubTexture name="flashTwo0007" x="7673" y="775" width="365" height="387"/>
+	<SubTexture name="flashTwo0008" x="0" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0009" x="365" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0010" x="730" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0011" x="1095" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0012" x="1460" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0013" x="1825" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0014" x="2190" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0015" x="2555" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0016" x="2920" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0017" x="3285" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0018" x="3650" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0019" x="4015" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0020" x="4380" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0021" x="4745" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0022" x="5110" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0023" x="5475" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0024" x="5840" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0025" x="6205" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0026" x="6570" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0027" x="6935" y="1162" width="365" height="387"/>
+	<SubTexture name="flashTwo0028" x="7300" y="1162" width="365" height="387"/>
+	<SubTexture name="hitHighlight0000" x="7665" y="1162" width="364" height="387"/>
+	<SubTexture name="hitLOLe0000" x="0" y="1549" width="361" height="377"/>
+	<SubTexture name="hitSpawn0000" x="361" y="1549" width="364" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0001" x="725" y="1549" width="364" height="386" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0002" x="1089" y="1549" width="366" height="386" frameX="0" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0003" x="1455" y="1549" width="366" height="386" frameX="0" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0004" x="1821" y="1549" width="366" height="386" frameX="0" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0005" x="2187" y="1549" width="366" height="385" frameX="0" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0006" x="2553" y="1549" width="366" height="386" frameX="0" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0007" x="2919" y="1549" width="366" height="386" frameX="0" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0008" x="3285" y="1549" width="365" height="386" frameX="0" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0009" x="3650" y="1549" width="365" height="385" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0010" x="4015" y="1549" width="366" height="385" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0011" x="4381" y="1549" width="366" height="386" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0012" x="4747" y="1549" width="366" height="386" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0013" x="5113" y="1549" width="366" height="386" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0014" x="5479" y="1549" width="366" height="386" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0015" x="5845" y="1549" width="365" height="386" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0016" x="6210" y="1549" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0017" x="6575" y="1549" width="365" height="386" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0018" x="6940" y="1549" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0019" x="7305" y="1549" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0020" x="7670" y="1549" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0021" x="0" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0022" x="365" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0023" x="730" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0024" x="1095" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0025" x="1460" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0026" x="1825" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0027" x="2190" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0028" x="2555" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0029" x="2920" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0030" x="3285" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0031" x="3650" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0032" x="4015" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0033" x="4380" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0034" x="4745" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0035" x="5110" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0036" x="5475" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0037" x="5840" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0038" x="6205" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0039" x="6570" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0040" x="6935" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0041" x="7300" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0042" x="7665" y="1936" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0043" x="0" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0044" x="365" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0045" x="730" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0046" x="1095" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0047" x="1460" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0048" x="1825" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0049" x="2190" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0050" x="2555" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0051" x="2920" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0052" x="3285" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0053" x="3650" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0054" x="4015" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0055" x="4380" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0056" x="4745" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0057" x="5110" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+	<SubTexture name="hitSpawn0058" x="5475" y="2323" width="365" height="387" frameX="-1" frameY="0" frameWidth="367" frameHeight="387"/>
+</TextureAtlas>

@@ -1,0 +1,40 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "normal",
+			"expression": "shocked", 
+                        "slidePath": "angeles/dialoguebackground/9",
+			"text": "I don't care that I'm losing, but bruh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bruh",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Why are you so funkin' good?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bruh",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "One more song will do, I'll kick your ass in this one."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backgroundLightThingamabobs.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightsBG0000" x="0" y="0" width="1292" height="1059" frameX="-15" frameY="-6" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0001" x="0" y="0" width="1292" height="1059" frameX="-15" frameY="-6" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0002" x="1292" y="0" width="1293" height="1060" frameX="-14" frameY="-5" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0003" x="2585" y="0" width="1293" height="1061" frameX="-14" frameY="-4" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0004" x="3878" y="0" width="1294" height="1061" frameX="-13" frameY="-4" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0005" x="5172" y="0" width="1295" height="1062" frameX="-12" frameY="-3" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0006" x="6467" y="0" width="1296" height="1062" frameX="-11" frameY="-3" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0007" x="0" y="1062" width="1297" height="1062" frameX="-10" frameY="-3" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0008" x="1297" y="1062" width="1298" height="1063" frameX="-9" frameY="-2" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0009" x="2595" y="1062" width="1299" height="1063" frameX="-8" frameY="-2" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0010" x="3894" y="1062" width="1299" height="1063" frameX="-8" frameY="-2" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0011" x="5193" y="1062" width="1300" height="1064" frameX="-7" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0012" x="6493" y="1062" width="1301" height="1064" frameX="-6" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0013" x="0" y="2126" width="1302" height="1064" frameX="-5" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0014" x="1302" y="2126" width="1302" height="1064" frameX="-5" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0015" x="2604" y="2126" width="1303" height="1064" frameX="-4" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0016" x="3907" y="2126" width="1304" height="1065" frameX="-3" frameY="0" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0017" x="5211" y="2126" width="1305" height="1065" frameX="-2" frameY="0" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0018" x="6516" y="2126" width="1305" height="1065" frameX="-2" frameY="0" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0019" x="0" y="3191" width="1306" height="1065" frameX="-1" frameY="0" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0020" x="1306" y="3191" width="1307" height="1064" frameX="0" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0021" x="2613" y="3191" width="1306" height="1065" frameX="-1" frameY="0" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0022" x="3919" y="3191" width="1305" height="1065" frameX="-2" frameY="0" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0023" x="5224" y="3191" width="1305" height="1065" frameX="-2" frameY="0" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0024" x="6529" y="3191" width="1304" height="1065" frameX="-3" frameY="0" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0025" x="0" y="4256" width="1303" height="1065" frameX="-4" frameY="0" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0026" x="1303" y="4256" width="1303" height="1064" frameX="-4" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0027" x="2606" y="4256" width="1302" height="1064" frameX="-5" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0028" x="3908" y="4256" width="1301" height="1064" frameX="-6" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0029" x="5209" y="4256" width="1300" height="1064" frameX="-7" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0030" x="6509" y="4256" width="1300" height="1064" frameX="-7" frameY="-1" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0031" x="0" y="5321" width="1299" height="1063" frameX="-8" frameY="-2" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0032" x="1299" y="5321" width="1298" height="1063" frameX="-9" frameY="-2" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0033" x="2597" y="5321" width="1297" height="1063" frameX="-10" frameY="-2" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0034" x="3894" y="5321" width="1297" height="1062" frameX="-10" frameY="-3" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0035" x="5191" y="5321" width="1296" height="1062" frameX="-11" frameY="-3" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0036" x="6487" y="5321" width="1294" height="1061" frameX="-12" frameY="-4" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0037" x="0" y="6384" width="1294" height="1061" frameX="-13" frameY="-4" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0038" x="1294" y="6384" width="1293" height="1060" frameX="-14" frameY="-5" frameWidth="1307" frameHeight="1065"/>
+	<SubTexture name="lightsBG0039" x="2587" y="6384" width="1293" height="1060" frameX="-14" frameY="-5" frameWidth="1307" frameHeight="1065"/>
+</TextureAtlas>
